@@ -6,7 +6,6 @@ I also own DevSecOps and compliance for a network-security product.
 
 ## Writing
 
-- [local-agent-mcp](https://bennytaipei.github.io/local-agent-mcp/): an MCP server that lists, launches, steers, and checks on local coding-agent sessions.
 - [How my coding-agent kit fits together](https://bennytaipei.github.io/kit-architecture.html): the devkit, the shared knowledge base, and the agent tools, with diagrams.
 - [Keep Going: an anti-stall design for coding agents](https://bennytaipei.github.io/local-agent-mcp/keep-going/): harness instructions that keep coding agents working between steps instead of waiting for confirmation.
 - [The devkit's ticket-to-PR agent pipeline](https://bennytaipei.github.io/devkit-orchestration.html): ticket breakdown, Temporal workflows for developer, tester, and PR-creator agents, and prompts built from the knowledge base.
