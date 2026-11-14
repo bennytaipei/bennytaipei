@@ -14,4 +14,9 @@ I also own DevSecOps and compliance for a network-security product.
 - [Agent tool manifests and the browser handoff](https://bennytaipei.github.io/agent-tools-handoff.html): a tool manifest catalog, and a containerized browser that hands login pages to me over noVNC.
 - [Tracking parallel coding-agent sessions](https://bennytaipei.github.io/agent-control-plane.html): per-agent status files, a census, and rules for resuming and splitting work.
 
+## Agentic tooling
+
+- [local-agent-mcp](https://github.com/bennytaipei/local-agent-mcp): an MCP server that lists, launches, steers, and reads local coding-agent sessions (Grok, Claude Code, or OMP).
+- [agent-tools](https://github.com/bennytaipei/agent-tools): a typed tool-manifest catalog and a containerized browser runtime with a sign-in handoff.
+
 Contact: [sendtobenny@icloud.com](mailto:sendtobenny@icloud.com) · Docs index: [bennytaipei.github.io](https://bennytaipei.github.io)
